@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Yuvraj
 
-<!--
-**yuvrajsinghrathore04/yuvrajsinghrathore04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner Full Stack Web Developer with intermediate frontend skills and beginner backend knowledge. I enjoy building responsive websites and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Basic Backend (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Portfolio Website
+- Landing Pages
+- JavaScript Mini Projects
+
+## 🌱 Currently Learning
+- Backend Development
+- APIs
+- Databases
+
+## 📫 Contact
+- Email: yuvrajsinghrathore0406@gmail.com
+
