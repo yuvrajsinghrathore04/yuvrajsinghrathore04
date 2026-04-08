@@ -6,6 +6,8 @@ I am a beginner Full Stack Web Developer with intermediate frontend skills and b
 - HTML5
 - CSS3
 - JavaScript
+- Tailwind
+- React Native
 - Responsive Web Design
 - Basic Backend (Learning)
 
